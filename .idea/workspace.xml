@@ -1,38 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5b7e2c4-edfd-4f0b-97dc-191151799f39" name="Changes" comment="" />
+    <list default="true" id="e5b7e2c4-edfd-4f0b-97dc-191151799f39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/bird.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/_00_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/_01_MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/_02_BorderLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/_03_FlowLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GUI/_04_GridLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/eye.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/eye.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/MyFrame.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mem000&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mem000/JAVA_CSCE3102_Fall2024.git&quot;,
+    &quot;accountId&quot;: &quot;4f86e44b-a570-4cf1-9190-7ef690116cc0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2mbnwhGBlZdDn3Z14WRZVCCw8Zk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ImageQualityExample.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MyFrame.executor": "Run",
+    "Application._02_BorderLayout.executor": "Run",
+    "Application._03_FlowLayout.executor": "Run",
+    "Application._04_GridLayout.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/JAVA_Projects/JAVA_CSCE3102_Fall2024/image",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "actions.on.save",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JAVA_Projects\JAVA_CSCE3102_Fall2024\image" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -44,7 +105,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727354383734</updated>
-      <workItem from="1727354384731" duration="4000" />
+      <workItem from="1727354384731" duration="3527000" />
+      <workItem from="1727360669146" duration="11672000" />
+      <workItem from="1727448679578" duration="7025000" />
+      <workItem from="1727557551751" duration="4668000" />
     </task>
     <servers />
   </component>
