@@ -3,7 +3,7 @@ package GUI;
 import javax.swing.*;
 import java.awt.*;
 
-public class _04_GridLayout {
+public class _07_GridLayout {
     // Layout Manager - Defines the natural layout for components within a container
 
     // GridLayout = places components in a grid of cells.

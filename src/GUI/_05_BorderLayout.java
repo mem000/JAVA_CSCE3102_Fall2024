@@ -3,7 +3,7 @@ package GUI;
 import javax.swing.*;
 import java.awt.*;
 
-public class _02_BorderLayout {
+public class _05_BorderLayout {
 
     public static void main(String[] args) {
         // Layout Manager - Defines the natural layout for components within a container
@@ -18,7 +18,7 @@ public class _02_BorderLayout {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(500, 500);
         frame.setLocationRelativeTo(null);
-        frame.setLayout(new BorderLayout(10, 10));
+        //frame.setLayout(new BorderLayout(10, 10));
         frame.setVisible(true);
 
 

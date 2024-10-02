@@ -5,12 +5,19 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class _01_MyFrame extends JFrame implements ActionListener {
+
+public class _04_Buttons {
+    public static void main(String[] args) {
+        new MyFrame();
+    }
+}
+
+class MyFrame extends JFrame implements ActionListener {
     JButton btn, btn2;
     JLabel label2;
     int counter = 0;
 
-    public _01_MyFrame() {
+    public MyFrame() {
         // JFrame = a GUI window to add components to
 
         this.setTitle("My Frame"); // sets title of frame
@@ -65,10 +72,6 @@ public class _01_MyFrame extends JFrame implements ActionListener {
         this.revalidate();
         this.repaint();
 
-    }
-
-    public static void main(String[] args) {
-        new _01_MyFrame();
     }
 
     @Override
